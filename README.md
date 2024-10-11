@@ -1,0 +1,1 @@
+A Calculator project with basic arithmetic operations functionalities like addition, subtraction, multiplication, and division will be highly useful to a novice who has the essential kmowledge of HTML, CSS, and JavaScript.
